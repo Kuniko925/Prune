@@ -4,4 +4,4 @@
 
 # Fairness: Mitigating Skin Colour Bias in Computer Vision Using Prune Learning
 
-
+![Image](./images/fig_procedure.png)
