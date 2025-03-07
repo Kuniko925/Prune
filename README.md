@@ -5,5 +5,6 @@
 # Fairness: Mitigating Skin Colour Bias in Computer Vision Using Prune Learning
 
 <p align="center">
- <img src="https://github.com/Kuniko925/Prune/tree/main/images/fair pruning.png"> </p>
+ <img src="https://github.com/Kuniko925/Prune/tree/main/images/pruningforfair.png"> 
+</p>
 
